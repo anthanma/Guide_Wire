@@ -46,8 +46,6 @@ A sophisticated syndicate of 500 delivery workers in a tier-1 city recently expl
 
 > **Context:** In response to the Phase 1 Market Crash, our architecture pivots to a proactive **Spatio-Temporal & Sensor Fusion** model. By analyzing immutable hardware physics, network decay, and cluster intelligence, our system isolates emulator farms and spoofers — without penalizing genuinely stranded gig workers.
 
-📎 **Core system architecture:** [Phase 1 Reference Document]([https://drive.google.com/file/d/1KupMiV_pLLGe0DNwUYzHi-Alh1qWdGxo/view?usp=drive_link](https://drive.google.com/file/d/1KupMiV_pLLGe0DNwUYzHi-AIh1qWdGxo/view))
-
 ---
 
 ## 1. The Differentiation — AI Architecture & Dark Node Resilience
